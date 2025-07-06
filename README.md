@@ -24,4 +24,4 @@ Make sure you have Python installed. Tkinter usually comes bundled with Python.
 To run the game, simply execute:
 
 ```bash
-python tictactoe_gui.py
+python tictac.py
